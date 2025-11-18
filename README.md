@@ -1,4 +1,4 @@
-### Chirpley AI Landing Page Clone
+## Chirpley AI Landing Page Clone
 
 This repository contains the code and assets to build a **responsive duplicate of the Chirpley AI landing page** using only **HTML, CSS, and JavaScript**—no frameworks, no libraries, and **no prior experience required!** 🎉
 
