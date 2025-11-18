@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap'); /* Google Fonts */
+
+* { /* Universal Styling */
+  padding: 0; /* No padding */
+  margin: 0; /* No margin */
+  box-sizing: border-box; /* Inclusive sizing */
+}
+
+:root { /* Variables to store colors and other properties */
+  --bg-color: rgb(255, 220, 165); /* Theme selected Background Color Variable */
+  --text-color: rgb(242, 65, 57); /* Theme selected text color variable */
+  --secondary-bg-color: rgb(255, 235, 204); /* Theme selected secondary color variable */
+}
+
+body { /* Body of the page */
+  font-family: 'Oswald', sans-serif; /* Set the default font-family to Oswald and for fallback use sans-serif */
+  width: 100vw; /* Body occupies 100% width viewport space */
+  overflow-x: hidden; /* Any element overflowing Horizontal width of the body remains hidden by default */
+  background: var(--bg-color); /* Background color is set to variable value */
+  color: var(--text-color); /* Text color for whole document is set to the variable value */
+  overflow-y: hidden; /* To avoid scrolling till the video in hero section ends */
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px; /* Width of the entire scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--text-color); /* Color of the thumb */
+  border-radius: 5px; /* Rounded corners for the thumb */
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--bg-color); /* Color of the track */
+}
+
+/******************** Header Section ********************/
+
+
+/******************** Hero Section ********************/
+
+
+/******************** Target Audience Section ********************/
+
+
+/******************** Marketplace Section ********************/
+
+
+/******************** AI-ML Platform Section ********************/
+
+/* Newsletter */
+
+/* Links & Companies */
+
+
+/******************** Footer Section ********************/
+
