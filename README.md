@@ -14,8 +14,7 @@ Designed as a beginner-friendly project for students to learn and practice front
 ## 🎥 Tutorial  
 Follow along with the **step-by-step video tutorial** where this landing page is built from scratch:  
 👉 [Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=your-video-id)
-
-*(Replace the link above with the actual video URL when available.)*
+Video is not released yet, coming soon!
 
 ## 📝 License & Attribution  
 This project is **free and open source** for all students and educational use.  
